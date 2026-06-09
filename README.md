@@ -6,66 +6,57 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - **Researcher** at Ain Shams University — published in *Scientific Reports* (Nature) on TiN nanoparticles for perovskite solar cells
 - **Data Science Trainee** at ITI — currently deep into RAG systems, moving to AI agents
-- **Building** [PhotonRAG](https://github.com/Mahmoud-N-Elmallah) — multimodal RAG over scientific literature (dense + BM25 → RRF → BGE → LLM)
-- **Targeting** iPSRS Erasmus Mundus — Intelligent Photonics for Security, Reliability, Sustainability & Safety (fully funded EU Master's)
-- **Military service** in Data Science/AI research role (completion Mar 2027)
+- **Currently Building** [PhotonRAG](https://github.com/Mahmoud-N-Elmallah) — multimodal RAG over scientific literature (dense + BM25 → RRF → BGE → LLM)
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | Domain | Skills |
 |--------|--------|
 | **Languages** | Python, SQL, MATLAB, Java |
 | **ML/DL** | PyTorch, TensorFlow, Scikit-learn, OpenCV |
-| **MLOps** | DVC, MLflow, Docker, FastAPI, CI/CD (GitLab CI) |
-| **RAG & LLMs** | LangChain LCEL, OpenRouter, BGE, Hybrid Search (BM25 + Dense → RRF) |
+| **MLOps** | DVC, MLflow, Docker, FastAPI, CI/CD (GitLab CI/ Github Actions) |
+| **RAG & LLMs** | LangChain , LangGraph, HuggingFace, OpenRouter |
 | **DevOps** | Docker, Docker Compose, uv, Git, DVC |
-| **Physics** | FDTD (Lumerical), Optical Simulation, Signal Processing |
-| **Research** | Academic writing, Paper pipelines, Multimodal RAG |
+| **Physics** | FDTD (Lumerical),Electromagnetic Modelling, Optical and Electrical Simulation, Signal Processing |
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔬 Deep-Photonics-Reliability
+###  Deep-Photonics-Reliability
 > Physics-constrained computer vision pipeline for autonomous fault detection in photovoltaic cells using 2D-FFT signal deconstruction and Deep Learning.
 
 `PyTorch` `Computer Vision` `Signal Processing` `Grad-CAM` `Solar Energy`
 
-### 👁️ robust-iris-biometric-auth-system-cv
+###  robust-iris-biometric-auth-system-cv
 > High-precision biometric identification using Deep Learning for texture-based iris recognition on CASIA-Iris NIR dataset.
 
 `PyTorch` `Biometrics` `Computer Vision` `Deep Learning`
 
-### 📊 Home-Credit-Default-Risk-ML
+###  Home-Credit-Default-Risk-ML
 > End-to-end MLOps pipeline for Kaggle's Home Credit Default Risk — DVC data versioning, MLflow tracking, Docker deployment.
 
 `MLOps` `DVC` `MLflow` `Docker` `Scikit-learn`
 
-### 🏦 imbalanced-creditcard-fraud-detection
+###  imbalanced-creditcard-fraud-detection
 > Fraud detection pipeline tackling extreme class imbalance with SMOTE + ensemble methods. DVC + MLflow experiment tracking.
 
 `Fraud Detection` `Imbalanced Learning` `DVC` `MLflow`
 
-### 📝 NLP-Intelligence-System-From-Raw-Text-to-Production
+###  NLP-Intelligence-System-From-Raw-Text-to-Production
 > End-to-end NLP pipeline from raw text preprocessing to production-grade API deployment with Docker and DVC.
 
 `NLP` `Docker` `DVC` `FastAPI`
 
 ---
 
-## 📈 GitHub Stats
-
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-N-Elmallah&show_icons=true&theme=tokyonight&hide=stars,issues)
-
----
-
-## 📫 Let's Connect
+##  Let's Connect
 
 - **Email**: [mahmoudelmalah85@gmail.com](mailto:mahmoudelmalah85@gmail.com)
 - **LinkedIn**: [linkedin.com/in/mahmoud-el-mallah](https://linkedin.com/in/mahmoud-el-mallah)
@@ -74,4 +65,4 @@
 
 ---
 
-*"Bridging the gap between photonic physics and intelligent systems."*
+*"Bridging the gap between Ai, intelligent systems and Photonics."*
