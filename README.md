@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahmoud Nabil El-mallah
 
-**Physics Graduate → Data Science Researcher | Building at the intersection of Photonics + AI**
+**Physics Graduate → Data Scientist, and Ai Engineer | Building at the intersection of Photonics + AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-el-mallah) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Mahmoud-N-Elmallah) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudelmalah85@gmail.com) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-7508-6123)
 
@@ -9,8 +9,8 @@
 ##  About Me
 
 - **Researcher** at Ain Shams University — published in *Scientific Reports* (Nature) on TiN nanoparticles for perovskite solar cells
-- **Data Science Trainee** at ITI — currently deep into RAG systems, moving to AI agents
-- **Currently Building** [PhotonRAG](https://github.com/Mahmoud-N-Elmallah) — multimodal RAG over scientific literature (dense + BM25 → RRF → BGE → LLM)
+- **Data Science Trainee** at ITI — Getting to know more about Data , Machine Learning and everything Ai.
+- **Currently Building** [PhotonRAG](https://github.com/Mahmoud-N-Elmallah) — multimodal RAG over Photonics and Photovoltaics scientific literature.
 
 ---
 
