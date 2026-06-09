@@ -19,7 +19,7 @@
 | Domain | Skills |
 |--------|--------|
 | **Languages** | Python, SQL, MATLAB, Java |
-| **ML/DL** | PyTorch, TensorFlow, Scikit-learn, OpenCV |
+| **ML/DL** | PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy , Polars, OpenCV |
 | **MLOps** | DVC, MLflow, Docker, FastAPI, CI/CD (GitLab CI/ Github Actions) |
 | **RAG & LLMs** | LangChain , LangGraph, HuggingFace, OpenRouter |
 | **DevOps** | Docker, Docker Compose, uv, Git, DVC |
