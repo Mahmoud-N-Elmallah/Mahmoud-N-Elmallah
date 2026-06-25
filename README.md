@@ -12,24 +12,26 @@
 
 ## About Me
 
-- First-author researcher published in *Scientific Reports* (Nature) on perovskite solar cells via plasmonic TiN nanoparticles
 - Graduate of the ITI 9-month Professional Diploma in Data Science (Machine Learning, Deep Learning, AI, Statistics, Big Data)
-- Building production-grade ML pipelines, agentic RAG systems, computer vision models, and full-stack data platforms
+- Building production-grade ML pipelines, agentic RAG systems, computer vision models, and data platforms
 - Physics BSc, Rank 1 in cohort, Ain Shams University
-
+- First-author researcher published in *Scientific Reports* (Nature) on perovskite solar cells via plasmonic TiN nanoparticles
 ---
 
 ## Tech Stack
 
 | Domain | Skills |
 |--------|--------|
-| **Languages** | Python, SQL, MATLAB, Bash, Java, LaTeX |
-| **ML & DL** | PyTorch, TensorFlow, scikit-learn, XGBoost, CatBoost, LightGBM, OpenCV, scipy, SHAP, Optuna, CNNs, RNNs, Time Series, Computer Vision |
-| **Gen AI & LLMs** | HuggingFace, LangChain, LangGraph, LangSmith, RAG, AI Agents, LLM Fine-tuning (SFT, RLHF, DPO), NLP |
-| **Inference & Serving** | vLLM, Ollama, SGLang |
-| **MLOps & DevOps** | MLflow, DVC, Hydra, WANDB, Docker, Git, Linux, GitLab CI/CD, FastAPI, Streamlit, AWS |
-| **Data & Analytics** | pandas, Polars, cuDF, NumPy, Hadoop, Spark, Excel, Power BI, LanceDB, Oracle XE, SQLAlchemy |
-
+| **Languages** | Python, SQL, PL/SQL, MATLAB, Bash, Java, LaTeX |
+| **Machine Learning** | Scikit-learn, XGBoost, CatBoost, LightGBM, SHAP, Optuna, SMOTE, Supervised Learning, Unsupervised Learning, Time Series Analysis, Ensemble Methods, Model Evaluation, Cross Validation, Hyperparameter Optimization |
+| **Feature Engineering** | Feature Scaling, Encoding, Feature Selection, Dimensionality Reduction, Data Preprocessing, Outlier Handling, Missing Value Treatment |
+| **Deep Learning & CV** | PyTorch, TensorFlow, Keras, CNNs, RNNs, LSTMs, GRUs, Transfer Learning, Attention Mechanisms, Vision Transformers (ViTs), OpenCV, Computer Vision, Object Detection, YOLO, OCR, Image Segmentation, U-Net |
+| **NLP & IR** | HuggingFace Transformers, BERT, Word2Vec, GloVe, TF-IDF, BM25, Word Embeddings, Tokenization, Text Classification, Semantic Search, Information Retrieval, Retrieval Systems |
+| **Gen AI & LLMs** | LangChain, LangGraph, LangSmith, RAG, AI Agents, Prompt Engineering, LLM Fine-tuning (SFT, RLHF), Vector Databases, Agentic Workflows, Evaluation Pipelines, RAGAS, LLM Guardrails, LLM Gateways, LiteLLM, Agents SDKs, MCP, FastMCP, A2A |
+| **Inference & Serving** | vLLM, Llama.cpp, Ollama, SGLang |
+| **MLOps & DevOps** | MLflow, DVC, Hydra, W&B, Experiment Tracking, Model Versioning, Reproducible ML Pipelines, UV Package Manager, Docker, Git, Linux, GitHub Actions, GitLab CI/CD, FastAPI, Streamlit, AWS |
+| **Data Analytics & Visualization** | Pandas, Polars, NumPy, Matplotlib, Seaborn, Plotly, Excel, Power BI |
+| **Data Engineering & Big Data** | Spark, PySpark, Hadoop, cuDF, ETL Pipelines, Data Modeling, Data Warehousing, Star Schema Design, SQLAlchemy, Oracle XE |
 ---
 
 ## Featured Projects
