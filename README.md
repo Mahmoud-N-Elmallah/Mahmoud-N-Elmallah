@@ -12,7 +12,7 @@
 
 ## About Me
 
-- Graduate of the ITI 9-month Professional Diploma in Data Science (Machine Learning, Deep Learning, AI, Statistics, Big Data)
+- Trainee at ITI 9-month Professional Diploma in Data Science (Machine Learning, Deep Learning, AI, Statistics, Big Data)
 - Building production-grade ML pipelines, agentic RAG systems, computer vision models, and data platforms
 - Physics BSc, Rank 1 in cohort, Ain Shams University
 - First-author researcher published in *Scientific Reports* (Nature) on perovskite solar cells via plasmonic TiN nanoparticles
